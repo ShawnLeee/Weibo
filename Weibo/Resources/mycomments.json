@@ -1,0 +1,136 @@
+{
+    "cardlistInfo": {
+        "v_p": "27",
+        "containerid": "2304081815695812_-_WEIBO_INDEX_PROFILE_REVIEW",
+        "title_top": "我的点评",
+        "show_style": 1,
+        "can_shared": "0",
+        "total": "",
+        "background": "",
+        "cardlist_menus": [{
+                           "type": "button_menus_refresh",
+                           "name": "刷新"
+                           }, {
+                           "type": "gohome",
+                           "name": "返回首页",
+                           "params": {
+                           "scheme": "sinaweibo:\/\/gotohome"
+                           }
+                           }]
+    },
+    "cards": [{
+              "card_type": 19,
+              "card_type_name": "我的点评",
+              "itemid": "2304081815695812_-_WEIBO_INDEX_PROFILE_REVIEW_-_nav",
+              "col": "4",
+              "group": [{
+                        "title_sub": "点评电影",
+                        "pic": "http:\/\/u1.sinaimg.cn\/upload\/2014\/07\/17\/92730.png",
+                        "scheme": "sinaweibo:\/\/cardlist?containerid=1059032002",
+                        "newflag": ""
+                        }, {
+                        "title_sub": "点评音乐",
+                        "pic": "http:\/\/u1.sinaimg.cn\/upload\/2014\/07\/17\/92700.png",
+                        "scheme": "sinaweibo:\/\/cardlist?containerid=1059032001",
+                        "newflag": ""
+                        }, {
+                        "title_sub": "点评地点",
+                        "pic": "http:\/\/u1.sinaimg.cn\/upload\/2014\/07\/17\/92690.png",
+                        "scheme": "sinaweibo:\/\/cardlist?containerid=230820&needlocation=1",
+                        "newflag": ""
+                        }, {
+                        "title_sub": "点评更多",
+                        "pic": "http:\/\/u1.sinaimg.cn\/upload\/2014\/07\/17\/92736.png",
+                        "scheme": "sinaweibo:\/\/cardlist?containerid=230788&needlocation=1",
+                        "newflag": ""
+                        }],
+              "openurl": ""
+              }, {
+              "card_type": 6,
+              "itemid": "2304081815695812_-_WEIBO_INDEX_PROFILE_REVIEW_-_block1",
+              "show_type": 4,
+              "desc": "你还没有发布过点评",
+              "openurl": ""
+              }, {
+              "card_type": 11,
+              "title": "你可能想点评的内容",
+              "itemid": "2304081815695812_-_WEIBO_INDEX_PROFILE_REVIEW_card11_interest",
+              "buttontitle": "",
+              "scheme": "",
+              "display_arrow": 0,
+              "card_group": [{
+                             "card_type": 8,
+                             "itemid": "2304081815695812_-_WEIBO_INDEX_PROFILE_REVIEW_-_1022:100101B2094655D26FA5FE4299",
+                             "pic": "http:\/\/ww4.sinaimg.cn\/wap180\/4e704b16jw1e9sz7d25zpj2050050dfx.jpg",
+                             "title_sub": "上海·东华大学(延安西路校区)",
+                             "desc1": "上海市长宁路延安西路1882号",
+                             "desc2": "地点",
+                             "scheme": "sinaweibo:\/\/pageinfo?containerid=100101B2094655D26FA5FE4299",
+                             "display_arrow": 0,
+                             "buttons": [{
+                                         "skip_format": 1,
+                                         "type": "link",
+                                         "name": "点评",
+                                         "pic": "http:\/\/u1.sinaimg.cn\/upload\/2014\/01\/15\/card_icon_comment.png",
+                                         "sub_type": 0,
+                                         "params": {
+                                         "scheme": "sinaweibo:\/\/rating?rating_object_id=1022:100101B2094655D26FA5FE4299&go_home=1&title=上海·东华大学(延安西路校区)"
+                                         },
+                                         "actionlog": {
+                                         "act_code": "695",
+                                         "cardid": "2304081815695812_-_WEIBO_INDEX_PROFILE_REVIEW_-_1022:100101B2094655D26FA5FE4299",
+                                         "uicode": "10000011",
+                                         "oid": "1022:100101B2094655D26FA5FE4299",
+                                         "fid": "2304081815695812_-_WEIBO_INDEX_PROFILE_REVIEW",
+                                         "ext": ""
+                                         }
+                                         }],
+                             "actionlog": {
+                             "act_code": "695",
+                             "cardid": "2304081815695812_-_WEIBO_INDEX_PROFILE_REVIEW_-_1022:100101B2094655D26FA5FE4299",
+                             "uicode": "10000011",
+                             "oid": "1022:100101B2094655D26FA5FE4299",
+                             "fid": "2304081815695812_-_WEIBO_INDEX_PROFILE_REVIEW",
+                             "ext": ""
+                             },
+                             "openurl": ""
+                             }, {
+                             "card_type": 8,
+                             "itemid": "2304081815695812_-_WEIBO_INDEX_PROFILE_REVIEW_-_1022:100101B2094652D464A6F44599",
+                             "pic": "http:\/\/ww3.sinaimg.cn\/wap180\/4e704b16jw1em09wkve7sj20c80c8gma.jpg",
+                             "title_sub": "长沙·长沙火车南站",
+                             "desc1": "湖南省长沙雨花区花桥路",
+                             "desc2": "地点",
+                             "scheme": "sinaweibo:\/\/pageinfo?containerid=100101B2094652D464A6F44599",
+                             "display_arrow": 0,
+                             "buttons": [{
+                                         "skip_format": 1,
+                                         "type": "link",
+                                         "name": "点评",
+                                         "pic": "http:\/\/u1.sinaimg.cn\/upload\/2014\/01\/15\/card_icon_comment.png",
+                                         "sub_type": 0,
+                                         "params": {
+                                         "scheme": "sinaweibo:\/\/rating?rating_object_id=1022:100101B2094652D464A6F44599&go_home=1&title=长沙·长沙火车南站"
+                                         },
+                                         "actionlog": {
+                                         "act_code": "695",
+                                         "cardid": "2304081815695812_-_WEIBO_INDEX_PROFILE_REVIEW_-_1022:100101B2094652D464A6F44599",
+                                         "uicode": "10000011",
+                                         "oid": "1022:100101B2094652D464A6F44599",
+                                         "fid": "2304081815695812_-_WEIBO_INDEX_PROFILE_REVIEW",
+                                         "ext": ""
+                                         }
+                                         }],
+                             "actionlog": {
+                             "act_code": "695",
+                             "cardid": "2304081815695812_-_WEIBO_INDEX_PROFILE_REVIEW_-_1022:100101B2094652D464A6F44599",
+                             "uicode": "10000011",
+                             "oid": "1022:100101B2094652D464A6F44599",
+                             "fid": "2304081815695812_-_WEIBO_INDEX_PROFILE_REVIEW",
+                             "ext": ""
+                             },
+                             "openurl": ""
+                             }],
+              "openurl": ""
+              }]
+}

@@ -1,0 +1,12 @@
+#pod 'AFNetworking'
+pod 'SDWebImage'
+pod 'MJExtension'
+pod 'AFNetworking', '~> 2.5.4'
+pod 'MJRefresh'
+pod 'FMDB', '~> 2.5'
+pod 'MBProgressHUD'
+#pod 'Specta', '~> 1.0'
+pod 'ReactiveCocoa' ,'~> 2.4.2'
+#pod 'ActionSheetPicker-3.0', '~> 2.0.3'
+pod 'JSONModel'
+#pod "DXPopover"
